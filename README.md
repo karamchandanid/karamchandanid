@@ -1,73 +1,96 @@
 # Hello Ohana 👋 ☁
 
-### Let’s connect with me: 🤝  <img src="https://komarev.com/ghpvc/?username=karamchandanid&color=brightgreen" alt="watching_count" />  ![Salesforce](https://img.shields.io/badge/%20-Solution_Architect-%20?style=plastic&logo=salesforce&logoColor=white&logoSize=large&label=Salesforce&labelColor=blue)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=karamchandanid&color=brightgreen" alt="watching_count" />
+    <img src="https://img.shields.io/badge/%20-Solution_Architect-%20?style=plastic&logo=salesforce&logoColor=white&logoSize=large&label=Salesforce&labelColor=blue" alt="Salesforce" />
+  
+  **`Solution Architect` | `Tech Lead` | `Salesforce Expert` | `10+ Years Experience`**
 
-<!--
-[<img align="left" alt="karamchandanidharmendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karamchandanidharmendra)
-[<img align="left" alt="karamchandaniD | X" width="22px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" />](https://x.com/karamchandaniD)
-[<img align="left" alt="karamchandanidharmendra | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/karamchandanidharmendra)
-[<img align="left" alt="karamchandanidharmendra | Trailhead" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/salesforce.svg" />](https://www.salesforce.com/trailblazer/karamchandanidharmendra)
-<br/>
--->
-
-<a href="https://www.linkedin.com/in/karamchandanidharmendra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.salesforce.com/trailblazer/karamchandanidharmendra"><img src="https://img.shields.io/badge/salesforce-0b9dda.svg?&style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" /></a>&nbsp;
-<a href="https://www.facebook.com/karamchandanidharmendra"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="mailto:dharmendrakaramchandani@gmail.com?subject=Hello%20Dharmendra"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-
-#
-
-### Languages and Tools:
-<div align="left">
-  <table>
-    <tr>
-      <td><code><img width="36" src="https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/java/java.png" alt="Java" title="Java"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code></td>
-      <td><code><img width="36" src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" alt="Salesforce" title="Salesforce"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-    </tr>
-    <tr>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-      <td><code><img width="36" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Teamwork-icon.jpg" alt="Teamwork" title="Teamwork"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
-      <td><code><img width="36" src="https://www.cdnlogo.com/logos/e/57/eclipse.svg" alt="Eclipse.svg" title="Eclipse.svg"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-    </tr>
-    <tr>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></code></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-      <td>&nbsp;</td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code></td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/></code></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code></td>
-      <td>&nbsp;</td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-      <td><code><img width="36" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code></td>
-      <td>&nbsp;</td>
-    </tr>
-  </table>
 </div>
 
-# 
+## Mottos I Live By
+> **Everything is possible...!!** <br/>
+> _Nothing is Impossible as I'm possible!_ <br/>
+> **Be Risk Friendly!** <br/>
+> **It is easy to say 'Can you help me?' but it is as hard to say 'I can help you.'** <br/>
+
+
+
+## About Me
+
+Passionate **Salesforce Solution Architect** with over **10+ years** of hands-on experience building scalable enterprise solutions. I specialize in crafting innovative integrations, developing AppExchange products, and leading technical teams to deliver excellence.
+
+
+## Salesforce Credentials & Trailhead Achievements
+
+<div align="left">
+<table border="0">
+  <tr>
+    <td>
+  <a href="https://www.salesforce.com/trailblazer/dharmendra">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA14b&oid=00DF0000000gZsu&lastMod=1746774124000" alt="Agentforce Specialist" width="80" />
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1753104539000" alt="AI Associate" width="80" />
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000" alt="Platform App Builder" width="80" />
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" alt="Administrator" width="80" />
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000M9w3J&oid=00DF0000000gZsu&lastMod=1746772244000" alt="Platform Developer II" width="80" />
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000" alt="Platform Developer I" width="80" />
+  </a>
+</td>
+<td>
+<a href="https://www.salesforce.com/trailblazer/dharmendra">
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/triple-star-ranger.png" alt="Triple Star Ranger" width="120" />
+  <img src="https://trailhead.salesforce.com/agentblazer/banner-level-3.png" alt="Agentblazer Legend" width="200" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+  
+## Core Expertise
+
+### Lightning Web Components & Lightning Expert
+- Component Communication Patterns
+- Streaming API Implementation
+- Real-time Updates & Messaging
+- Platform Events & Change Data Capture
+
+### Integration Specialist
+- **Cloud**: AWS, Firebase
+- **Communication**: Twilio, SendGrid
+- **E-commerce**: Amazon Seller, Walmart, eBay, Magento
+- **Frameworks**: Ruby on Rails
+
+### AppExchange Products (6+)
+- 1st & 2nd Generation Package Development
+- SFDX/CLI Automation
+- Product Release Management & Maintenance
+- Security Review Compliance
+
+### Customer-Driven Solutions
+- Complex Trigger Frameworks
+- Async Processing (Batch, Queueable, Future)
+- Bulk Data Operations
+- Governor Limit Optimization
+
+## Languages and Tools:
+
+<div align="left">
+  
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) |
+| **APIs** | ![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat-square&logo=http&logoColor=white) ![REST](https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white) ![SOAP](https://img.shields.io/badge/SOAP-5A29E4?style=flat-square&logo=soap&logoColor=white) |
+| **Cloud & CRM** | ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Testing & Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Version Control** | ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **Project Mgmt** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Teamwork](https://img.shields.io/badge/Teamwork-6B47DC?style=flat-square&logo=teamwork&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime-FF9800?style=flat-square&logo=sublime-text&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+</div>
+
 
 # Github Stats: - ![GitHub Stars](https://img.shields.io/github/stars/karamchandanid?style=social)
 <table border="0">
@@ -76,15 +99,32 @@
     <!-- discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
   </td>
   <td>
+    <img align="top" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamchandanid&show_icons=true&hide_border=true&theme=swift" alt="Dharmendra's Top Languages"/>
+  <!-- 
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=karamchandanid&theme=swift&show_icons=true&border=e4e2e2" />
   </td>
-  <tr>
+  <!-- tr>
     <td colspan="2">
       <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=karamchandanid&row=4&theme=swift&no-frame=true"/>
     </td>
-  </tr>
+  </tr-->
 </table>
 <br/>
-<img align="top" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamchandanid&show_icons=true&hide_border=true&theme=swift" alt="Dharmendra's Top Languages"/>
 
-#
+
+## Let's Connect! 🤝 
+<div align="center">
+<a href="https://www.linkedin.com/in/karamchandanidharmendra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.salesforce.com/trailblazer/karamchandanidharmendra"><img src="https://img.shields.io/badge/salesforce-0b9dda.svg?&style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" /></a>&nbsp;
+<a href="https://www.facebook.com/karamchandanidharmendra"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="mailto:dharmendrakaramchandani@gmail.com?subject=Hello%20Dharmendra"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+</div>
+
+
+<div align="center">
+
+### "Building the Future, One Integration at a Time"
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:00A1E0&height=120&section=footer)
+</div>
+
